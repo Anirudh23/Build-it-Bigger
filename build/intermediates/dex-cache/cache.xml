@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Anirudh/Desktop/Android/JokeTellingApp/backend/build/libs/backend-android-endpoints.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7e48c26bb404629d94469819b0cb231466e90458">
+        <dex dex="/Users/Anirudh/Desktop/Android/JokeTellingApp/app/build/intermediates/pre-dexed/debug/backend-android-endpoints-f4c9083f561d93bca692db30f5755d28029bb3b9.jar" />
+    </item>
+    <item
+        jar="/Users/Anirudh/Desktop/Android/JokeTellingApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="98137c4d12c50923f5809852b1ef4d1c4e162081">
+        <dex dex="/Users/Anirudh/Desktop/Android/JokeTellingApp/app/build/intermediates/pre-dexed/debug/classes-28f4c66ff315c16893ab7fc1215e5c83c858dd03.jar" />
+    </item>
+    <item
+        jar="/Users/Anirudh/Desktop/Android/JokeTellingApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="cb6fab7a71fa9ec1f483d44c5fca65ab469d8aca">
+        <dex dex="/Users/Anirudh/Desktop/Android/JokeTellingApp/app/build/intermediates/pre-dexed/debug/classes-d7dd481f0c4b2f93155a2301127ec720f63c1d22.jar" />
+    </item>
+    <item
+        jar="/Users/Anirudh/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client/1.19.0/cdca49ad0977c040f603478aa2e16b2775c8fec6/google-http-client-1.19.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="cdca49ad0977c040f603478aa2e16b2775c8fec6">
+        <dex dex="/Users/Anirudh/Desktop/Android/JokeTellingApp/app/build/intermediates/pre-dexed/debug/google-http-client-1.19.0-4132cde6191d03b447586376183065a8a96d841b.jar" />
+    </item>
+    <item
+        jar="/Users/Anirudh/Desktop/Android/JokeTellingApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="166e458ee3b5fb5fcff0f936df3f3a788e6c54f3">
+        <dex dex="/Users/Anirudh/Desktop/Android/JokeTellingApp/app/build/intermediates/pre-dexed/debug/classes-a251d4bee38460fa472fcaee46e629a7879f5cdd.jar" />
+    </item>
+    <item
+        jar="/Users/Anirudh/Desktop/Android/JokeTellingApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="42a1ee578b62fd1bd28b3307a679dc9ba0791587">
+        <dex dex="/Users/Anirudh/Desktop/Android/JokeTellingApp/app/build/intermediates/pre-dexed/debug/classes-e0cd0a1f4b76eaf7b87a05778735749a3f555f1f.jar" />
+    </item>
+    <item
+        jar="/Users/Anirudh/Desktop/Android/JokeTellingApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="/Users/Anirudh/Desktop/Android/JokeTellingApp/app/build/intermediates/pre-dexed/debug/classes-9e452810f94eee230e79d95c2ee7511cc3b6052d.jar" />
+    </item>
+    <item
+        jar="/Users/Anirudh/Desktop/Android/JokeTellingApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="adebe28e0c0c05d34a3bfd76f3275bf4d8ff87b6">
+        <dex dex="/Users/Anirudh/Desktop/Android/JokeTellingApp/app/build/intermediates/pre-dexed/debug/classes-920178c2a89a6db2dd7877a3f36072d3defcc3c5.jar" />
+    </item>
+    <item
+        jar="/Users/Anirudh/.gradle/caches/modules-2/files-2.1/com.google.oauth-client/google-oauth-client/1.19.0/d473a8962e14a707a3716637e4898bb2dd9643f2/google-oauth-client-1.19.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d473a8962e14a707a3716637e4898bb2dd9643f2">
+        <dex dex="/Users/Anirudh/Desktop/Android/JokeTellingApp/app/build/intermediates/pre-dexed/debug/google-oauth-client-1.19.0-1468ccb2b7bc6078fad32bab526b3dcc424d9da8.jar" />
+    </item>
+    <item
+        jar="/Users/Anirudh/Desktop/Android/JokeTellingApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d11330ea68c0d964d30d5caed1f27e6b1488b189">
+        <dex dex="/Users/Anirudh/Desktop/Android/JokeTellingApp/app/build/intermediates/pre-dexed/debug/classes-fc1f9fda5a8150d6e86668b5edcd20c721d66e53.jar" />
+    </item>
+    <item
+        jar="/Users/Anirudh/Desktop/Android/JokeTellingApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c2ac04c5b232f6f0658ee4f1c13be09cd76406e2">
+        <dex dex="/Users/Anirudh/Desktop/Android/JokeTellingApp/app/build/intermediates/pre-dexed/debug/classes-f6567e1f4e97a4d2fc5280f67bbdfba47b5bcd3b.jar" />
+    </item>
+    <item
+        jar="/Users/Anirudh/Desktop/Android/JokeTellingApp/app/build/intermediates/exploded-aar/JokeTellingApp/androidlib/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b2f3b7b7b752b36aa7bbdebbcfa42d87fb0bf87a">
+        <dex dex="/Users/Anirudh/Desktop/Android/JokeTellingApp/app/build/intermediates/pre-dexed/debug/classes-d4c26d51cb4afc6669fec04cfc2568403de96799.jar" />
+    </item>
+    <item
+        jar="/Users/Anirudh/Desktop/Android/JokeTellingApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ff30fa49c07a08c3035d7218a3efebf5680d522">
+        <dex dex="/Users/Anirudh/Desktop/Android/JokeTellingApp/app/build/intermediates/pre-dexed/debug/classes-0e838947911639c1ed62f25dd89efcc9d6634fde.jar" />
+    </item>
+    <item
+        jar="/Users/Anirudh/Desktop/Android/JokeTellingApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b99f0b78bbcb76b915bc6529a83b65d4d46990dd">
+        <dex dex="/Users/Anirudh/Desktop/Android/JokeTellingApp/app/build/intermediates/pre-dexed/debug/classes-d08788ac2347f01c8e69ba9fea6239b4b033f6c5.jar" />
+    </item>
+    <item
+        jar="/Users/Anirudh/Desktop/Android/JokeTellingApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2491ae1b2a848af1f4f0c795f3117c1bd6a1989f">
+        <dex dex="/Users/Anirudh/Desktop/Android/JokeTellingApp/app/build/intermediates/pre-dexed/debug/classes-24e1807df12bd8558b0dfd97f5c7f355cbd5beb4.jar" />
+    </item>
+    <item
+        jar="/Users/Anirudh/Desktop/Android/JokeTellingApp/javalib/build/libs/javalib.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3d4c20b8a21416b99d03950b957f0e4c094aee49">
+        <dex dex="/Users/Anirudh/Desktop/Android/JokeTellingApp/app/build/intermediates/pre-dexed/debug/javalib-33d20861b1f437079ed0265f6ddabeb735bf9482.jar" />
+    </item>
+    <item
+        jar="/Users/Anirudh/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-jackson2/1.19.0/81dbf9795d387d5e80e55346582d5f2fb81a42eb/google-http-client-jackson2-1.19.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="81dbf9795d387d5e80e55346582d5f2fb81a42eb">
+        <dex dex="/Users/Anirudh/Desktop/Android/JokeTellingApp/app/build/intermediates/pre-dexed/debug/google-http-client-jackson2-1.19.0-d35c519ef797e346ffe7c36e713ef70d7f7ca64c.jar" />
+    </item>
+    <item
+        jar="/Users/Anirudh/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client-android/1.19.0/ba2aafb867f6af469f936ae76426cf0a280094bd/google-api-client-android-1.19.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba2aafb867f6af469f936ae76426cf0a280094bd">
+        <dex dex="/Users/Anirudh/Desktop/Android/JokeTellingApp/app/build/intermediates/pre-dexed/debug/google-api-client-android-1.19.0-f996eb53086b87fb3429006e750a5e2dbab10faf.jar" />
+    </item>
+    <item
+        jar="/Users/Anirudh/Desktop/Android/JokeTellingApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c756d14e99d39471e99013a1e8fd2f3813ed42bf">
+        <dex dex="/Users/Anirudh/Desktop/Android/JokeTellingApp/app/build/intermediates/pre-dexed/debug/classes-39e596910116e57daae6660eae758b8ff7cd6eaa.jar" />
+    </item>
+    <item
+        jar="/Users/Anirudh/Desktop/Android/JokeTellingApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e23ea11124bb700eeddd4ab7aa848c615f493850">
+        <dex dex="/Users/Anirudh/Desktop/Android/JokeTellingApp/app/build/intermediates/pre-dexed/debug/classes-1c8088b277030766b119684ebc904c09104b96a0.jar" />
+    </item>
+    <item
+        jar="/Users/Anirudh/Desktop/Android/JokeTellingApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/Anirudh/Desktop/Android/JokeTellingApp/app/build/intermediates/pre-dexed/debug/classes-9092ceea1ee92d1fe0f398ec8b0bd719e03750ed.jar" />
+    </item>
+    <item
+        jar="/Users/Anirudh/Desktop/Android/JokeTellingApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6e85edfc9b5346d216e50ccef1f8e825504144a3">
+        <dex dex="/Users/Anirudh/Desktop/Android/JokeTellingApp/app/build/intermediates/pre-dexed/debug/classes-37f6e23f0c35f2d420f7d50e7e2e936870a4b757.jar" />
+    </item>
+    <item
+        jar="/Users/Anirudh/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.1.3/f6c3aed1cdfa21b5c1737c915186ea93a95a58bd/jackson-core-2.1.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="/Users/Anirudh/Desktop/Android/JokeTellingApp/app/build/intermediates/pre-dexed/debug/jackson-core-2.1.3-2ac3cecbded7e3e3482ef011acb3eb0fcf396c64.jar" />
+    </item>
+    <item
+        jar="/Users/Anirudh/Desktop/Android/JokeTellingApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="77a9dcb5f8b1dba36aacaa9c150eb0942dbea158">
+        <dex dex="/Users/Anirudh/Desktop/Android/JokeTellingApp/app/build/intermediates/pre-dexed/debug/classes-6a3e117a96fe05f9ea2bdd1841e3ee45a2b39f3b.jar" />
+    </item>
+    <item
+        jar="/Users/Anirudh/Desktop/Android/JokeTellingApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c5cafb324568d954780abb858c25db7ce675ab3c">
+        <dex dex="/Users/Anirudh/Desktop/Android/JokeTellingApp/app/build/intermediates/pre-dexed/debug/classes-4a36c6a5a5e02b3b7431fc35fb527b3097b55262.jar" />
+    </item>
+    <item
+        jar="/Users/Anirudh/Desktop/Android/JokeTellingApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/Anirudh/Desktop/Android/JokeTellingApp/app/build/intermediates/pre-dexed/debug/classes-d8c2978e403e9ad890301d26e56f470dafeee8d7.jar" />
+    </item>
+    <item
+        jar="/Users/Anirudh/Documents/AndroidSdk/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/Anirudh/Desktop/Android/JokeTellingApp/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-b2f4cd332ede70169eb9e0643b782ae4607eeaf5.jar" />
+    </item>
+    <item
+        jar="/Users/Anirudh/Desktop/Android/JokeTellingApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="130b32ed466fa0f63efd4c7d6250ccd2ed506790">
+        <dex dex="/Users/Anirudh/Desktop/Android/JokeTellingApp/app/build/intermediates/pre-dexed/debug/classes-3b803e956b1f94645a7b92e530d33d63d99c7e9d.jar" />
+    </item>
+    <item
+        jar="/Users/Anirudh/Desktop/Android/JokeTellingApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/Anirudh/Desktop/Android/JokeTellingApp/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-c4adbec15aa7af8a85ffa46ae9c750e96c262211.jar" />
+    </item>
+    <item
+        jar="/Users/Anirudh/Desktop/Android/JokeTellingApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0124ce31248c0e8acfa2b28283c6d1a4d76e73d2">
+        <dex dex="/Users/Anirudh/Desktop/Android/JokeTellingApp/app/build/intermediates/pre-dexed/debug/classes-636bca2774dc1805333d9a72e8f72c0ec876edc9.jar" />
+    </item>
+    <item
+        jar="/Users/Anirudh/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-android/1.19.0/e3f11020c2c812112803d252d1392872d3f619c8/google-http-client-android-1.19.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e3f11020c2c812112803d252d1392872d3f619c8">
+        <dex dex="/Users/Anirudh/Desktop/Android/JokeTellingApp/app/build/intermediates/pre-dexed/debug/google-http-client-android-1.19.0-8adf32d3f95e642e073ab50bcff260b5a7ed9448.jar" />
+    </item>
+    <item
+        jar="/Users/Anirudh/Desktop/Android/JokeTellingApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2e24e5f1b11170163028277de63f709e42525db4">
+        <dex dex="/Users/Anirudh/Desktop/Android/JokeTellingApp/app/build/intermediates/pre-dexed/debug/classes-d0d490401c054f894de8f887798a5ada367ba791.jar" />
+    </item>
+    <item
+        jar="/Users/Anirudh/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client/1.19.0/6a21277d9bebe267b7ddee028b241eebc756c040/google-api-client-1.19.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6a21277d9bebe267b7ddee028b241eebc756c040">
+        <dex dex="/Users/Anirudh/Desktop/Android/JokeTellingApp/app/build/intermediates/pre-dexed/debug/google-api-client-1.19.0-83bb5faa18fdc829ee928ee11c3a2772dd5e2709.jar" />
+    </item>
+    <item
+        jar="/Users/Anirudh/Desktop/Android/JokeTellingApp/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="/Users/Anirudh/Desktop/Android/JokeTellingApp/app/build/intermediates/pre-dexed/debug/classes-c50bccc109a555b030f0b8a160356258e0ace00a.jar" />
+    </item>
+    <item
+        jar="/Users/Anirudh/Desktop/Android/JokeTellingApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4a135d56554069e5d0ff80e3220e887e57146ee5">
+        <dex dex="/Users/Anirudh/Desktop/Android/JokeTellingApp/app/build/intermediates/pre-dexed/debug/classes-c7a4441ba10f5c79e05f3c1219ee228e2e35002b.jar" />
+    </item>
+    <item
+        jar="/Users/Anirudh/Desktop/Android/JokeTellingApp/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="/Users/Anirudh/Desktop/Android/JokeTellingApp/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-f60d76935f96af1c873f0d5345fce2e7aa5874a5.jar" />
+    </item>
+    <item
+        jar="/Users/Anirudh/Desktop/Android/JokeTellingApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="edea92852b40eee716e910af8dad9eeaa58fb0e1">
+        <dex dex="/Users/Anirudh/Desktop/Android/JokeTellingApp/app/build/intermediates/pre-dexed/debug/classes-061a89ced3ee7d3150f2abf4c2135af4a374b632.jar" />
+    </item>
+    <item
+        jar="/Users/Anirudh/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/1.3.9/40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf/jsr305-1.3.9.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="/Users/Anirudh/Desktop/Android/JokeTellingApp/app/build/intermediates/pre-dexed/debug/jsr305-1.3.9-acdbcdbdee06e014216eb5f1f53324d7334d2565.jar" />
+    </item>
+    <item
+        jar="/Users/Anirudh/.gradle/caches/modules-2/files-2.1/com.google.guava/guava-jdk5/13.0/381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7/guava-jdk5-13.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7">
+        <dex dex="/Users/Anirudh/Desktop/Android/JokeTellingApp/app/build/intermediates/pre-dexed/debug/guava-jdk5-13.0-53b1388a0f253c5cb0324ecad34492508dd219dd.jar" />
+    </item>
+
+</items>
